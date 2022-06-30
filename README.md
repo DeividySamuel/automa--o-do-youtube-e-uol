@@ -1,12 +1,19 @@
-# automação do youtube e uol
-No inicio dos meus estudos aprendi um pouco de automação e fiz esse projetinho pessoal.<br>
+<h1>youtube and uol automation </h1>
+<h3>At the beginning of my studies I learned a little automation and made this personal project.</h3><br>
 
-TECNOLOGIAS USADAS.<BR>
-Python <br>
-Pyautogui <br>
-Pyperclip <br>
+##TECHNOLOGIES USED.
+<table>
+    <td>python</td>
+    <td>pyautogui</td>
+    <td>pyperclip</td>
+</table>
 
-RESUMO.<BR>
-Automatiza para acessar meu G-Email e depois o youtube e por fim sair e acessar o site do uol,<br>
-pode parecer simples mais me fez saber algo novo e que lá na frente trará resultados maiores.
+##SUMMARY.
++ Automate to access my G-Email and then youtube and finally go out and access the uol site,
+it may seem simple but it made me know something new and that in the future will bring greater results.
+
+##requirements.
+1. have a code editor like vscode or pycharm installed on your machine
+1. install pyautogui library with pip install pyautogui command
+1. install pyperclip library with pip install pyperclip command
 
